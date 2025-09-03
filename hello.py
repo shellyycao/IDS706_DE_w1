@@ -1,5 +1,5 @@
 def say_hello(name: str) -> str:
-    """Return a greeting message to students in the IDS class."""
+    """Return a greeting message to Annie."""
     return f"Hello, {name}, welcome to Duke and hope you have a great day!"
 
 
