@@ -34,4 +34,5 @@ d. Run [make format]
 e. Run [make lint]  
 f. Run [make clean]  
 
+#### NOTE: The code in this hello.py and test_hello.py file is cloned and modified from Annie's Template
 
