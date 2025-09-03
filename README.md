@@ -1,3 +1,6 @@
+
+[![IDS706 Week 1 Assignment](https://github.com/shellyycao/IDS706_DE_w1/actions/workflows/main.yml/badge.svg)](https://github.com/shellyycao/IDS706_DE_w1/actions/workflows/main.yml)
+
 # IDS706_DE_w1
 IDS706 Data Engineering Week 1 Assignment
 
@@ -22,12 +25,8 @@ The key of this project is to set up this repository in Github, the steps includ
 9. Enable GitHub Actions(in github) by setting up a workflow with YAML file, push this file to your repository.
 10. Create a badge in the README file:
 
-# Badges
-[![IDS706 Week 1 Assignment](https://github.com/shellyycao/IDS706_DE_w1/actions/workflows/main.yml/badge.svg)](https://github.com/shellyycao/IDS706_DE_w1/actions/workflows/main.yml)
 
-
-
-# To use this, please run:
+# To use this and get the code running, please run:
 a. Run [make install]
 b. Run code in hello.py 
 c. Run [make test]
