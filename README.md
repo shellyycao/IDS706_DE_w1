@@ -9,10 +9,10 @@ The key of this project is to set up this repository in Github, the steps includ
 1. Create a new repository in Github and select README file as a default.
 2. Clone the file in the local workspace (aka your onw computer), set up in the local environment.
 3. In the local environment(VS code), set up the following in the terminal:
-    a. touch Makefile
-    b. touch hello.py
-    c. touch test_hello.py
-    d. touch requirements.txt
+    a. touch Makefile \\
+    b. touch hello.py \\
+    c. touch test_hello.py \\
+    d. touch requirements.txt \\
     This will create a Makefile (which allows user to run tasks automatically with simple make commands instead of long shell commands.), a py file for the code, a test py file to put test cases for the code, and a requirement txt file (which lists all the Python packages the project depends on)
     ** NOTE: If you are using VS code, a extension of [Makefile Tools] and [Dev Container] need to be installed
     ** Rebuild or update your container after the changes to pick up modifications
@@ -27,11 +27,11 @@ The key of this project is to set up this repository in Github, the steps includ
 
 
 # To use this and get the code running, please run:
-a. Run [make install]
-b. Run code in hello.py 
-c. Run [make test]
-d. Run [make format]
-e. Run [make lint]
-f. Run [make clean]
+a. Run [make install] \\
+b. Run code in hello.py \\
+c. Run [make test] \\
+d. Run [make format] \\
+e. Run [make lint] \\
+f. Run [make clean] \\
 
 
