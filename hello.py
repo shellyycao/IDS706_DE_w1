@@ -9,5 +9,5 @@ def add(a: int, b: int) -> int:
 
 
 if __name__ == "__main__":
-    print(say_hello("Students"))
+    print(say_hello("Annie"))
     print(f"2 + 3 = {add(2, 3)}")
